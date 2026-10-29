@@ -1,0 +1,34 @@
+# Build output and IDE files
+artifacts/
+bin/
+obj/
+.vs/
+*.user
+*.suo
+*.exe
+*.dll
+*.pdb
+
+# Local music and generated runtime state
+*.mflac
+*.mgg
+*.mmp4
+*.flac
+*.ogg
+*.mp3
+*.m4a
+*.wav
+*.part
+.qqdecode-history.json
+解码报告_*.json
+report.json
+*-report.json
+song_key.bin
+*.log
+
+# Local scratch and archives
+work/
+*.tmp
+*.zip
+Thumbs.db
+Desktop.ini
